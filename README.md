@@ -1,7 +1,6 @@
 # Rozhanisty | Security Tools
 <p align="center">
-  <pre align="center">
-                                                                                                   
+  <pre align="center">                                     
                                              :*%%%%%=.                                             
                                          .+@@@@@@@@@@@@%:                                          
                                        .*@@@@@@@@@@@@@@@@%:                                        
