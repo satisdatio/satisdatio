@@ -84,7 +84,7 @@ I engineer minimal and auditable utilities for mission-critical, constrained env
 
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/rozhanisty)
 [![Gumroad](https://img.shields.io/badge/Gumroad-Tools_&_Scripts-36a9e1?style=flat-square&logo=gumroad)](https://gumroad.com/rozhanisty)
-[![PGP](https://img.shields.io/badge/PGP-Key_ID-lightgrey?style=flat-square&logo=gnupg)](https://your-key-link.com)
+[![PGP](https://img.shields.io/badge/PGP-Key_ID-lightgrey?style=flat-square&logo=gnupg)](https://github.com/rozhanisty.gpg)
 
 ---
 <p align="center">
