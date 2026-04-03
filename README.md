@@ -56,10 +56,10 @@
 ### **Executive Summary**
 I engineer minimal and auditable utilities for mission-critical, constrained environments. My work focuses on bridging the gap between amnesic systems and persistent security requirements, specializing in low-level execution and system hardening.
 
-![Bash](https://img.shields.io/badge/Language-Bash_SH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Platform-Linux_/_TailsOS-EBAF00?style=for-the-badge&logo=linux&logoColor=black)
+[![Bash](https://img.shields.io/badge/Language-Bash_SH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+[![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C++)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Platform-Linux_/_TailsOS-EBAF00?style=for-the-badge&logo=linux&logoColor=black)](https://tails.net/)
 
 ---
 
