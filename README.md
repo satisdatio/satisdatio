@@ -83,9 +83,10 @@ I engineer minimal and auditable utilities for mission-critical, constrained env
 ### **Connect & Verify**
 > **Trust but Verify.** > All releases are signed with my PGP key. Use the links below to inspect the source or verify my identity.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/rozhanisty)
-[![Gumroad](https://img.shields.io/badge/Gumroad-Tools_&_Scripts-36a9e1?style=flat-square&logo=gumroad)](https://gumroad.com/rozhanisty)
-[![PGP](https://img.shields.io/badge/PGP-Key_ID-lightgrey?style=flat-square&logo=gnupg)](https://github.com/rozhanisty.gpg)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github)](https://github.com/satisdatio)
+[![Reddit](https://img.shields.io/badge/Reddit-Profile-FF4500?style=flat-square&logo=reddit)](https://www.reddit.com/user/satisdatio/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Tools_&_Scripts-36a9e1?style=flat-square&logo=gumroad)](https://gumroad.com/satisdatio)
+[![PGP](https://img.shields.io/badge/PGP-Key_ID-lightgrey?style=flat-square&logo=gnupg)](https://github.com/satisdatio.gpg)
 
 ---
 <p align="center">
