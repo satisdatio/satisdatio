@@ -54,28 +54,29 @@
 ---
 
 ### **Executive Summary**
-I engineer minimal and auditable utilities for mission-critical, constrained environments. My work focuses on bridging the gap between amnesic systems and persistent security requirements.
+I engineer minimal and auditable utilities for mission-critical, constrained environments. My work focuses on bridging the gap between amnesic systems and persistent security requirements, specializing in low-level execution and system hardening.
 
 ![Bash](https://img.shields.io/badge/Language-Bash_SH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Platform-Linux_/_TailsOS-EBAF00?style=for-the-badge&logo=linux&logoColor=black)
-![Security](https://img.shields.io/badge/Focus-Hardened_Defaults-red?style=for-the-badge&logo=dependabot&logoColor=white)
 
 ---
 
 ### **Core Competencies**
 * **Amnesic Persistence:** Crafting automation for TailsOS without breaking the amnesic threat model.
-* **Low-Level Hardening:** Custom `nftables` implementations and kernel-level parameter tuning.
+* **Low-Level Hardening:** Custom `nftables` implementations, kernel-level parameter tuning, and memory isolation.
 * **Auditable Scripting:** `Shellcheck`-clean, POSIX-compliant, and side-effect-free codebases.
 * **Stateless Workflows:** Developing tools for ephemeral, live-boot, and air-gapped setups.
 
 ---
 
 ### **Active Research & Development**
-| Project | Stage | Stack |
+| Project | Stage | Focus / Stack |
 | :--- | :--- | :--- |
-| `Tails-Adv-Security` | **v2.0.0** | Bash, nftables, NM-Dispatcher |
-| `Constrained-Audit` | *Draft* | Go, Python, eBPF |
-| `Ephemeral-Vault` | *Testing* | LUKS, Shell, GPG |
+| `rozh-security-kit` | R&D | C++, Python, ASM, Exploit Mitigation |
+| `mem-injector` | Alpha | C, GDB, Process Tracing |
+| `tails-hardener` | Stable | Bash, nftables, sysctl |
 
 ---
 
